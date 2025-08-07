@@ -16,9 +16,9 @@ Analizar el comportamiento dinámico del sistema formado por los planetas Júpit
 
 La fuerza gravitacional que un cuerpo \( j \) ejerce sobre otro cuerpo \( i \) está dada por:
 
-\[
+$
 \mathbf{F}_{ij} = G \cdot \frac{m_i m_j}{|\mathbf{r}_j - \mathbf{r}_i|^3} (\mathbf{r}_j - \mathbf{r}_i)
-\]
+$
 
 Donde:
 - \( \mathbf{r}_i, \mathbf{r}_j \) son las posiciones de los cuerpos.
