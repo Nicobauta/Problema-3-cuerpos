@@ -4,13 +4,13 @@ Este proyecto simula el movimiento gravitacional de tres cuerpos: **Júpiter, Sa
 
 ---
 
-## 📌 Objetivo
+## Objetivo
 
 Analizar el comportamiento dinámico del sistema formado por los planetas Júpiter, Saturno y Urano, considerando sus **masas reales relativas** y aplicando las **leyes del movimiento de Newton** y la **ley de gravitación universal**.
 
 ---
 
-## ⚙️ Modelo Matemático
+## Modelo Matemático
 
 ### 1. Ley de Gravitación Universal
 
@@ -50,7 +50,7 @@ Para tres cuerpos en el espacio 3D, se generan 18 ecuaciones diferenciales de pr
 
 ---
 
-## 🧮 Datos utilizados
+## Datos utilizados
 
 ### Masas relativas
 
@@ -72,7 +72,7 @@ Las velocidades están orientadas tangencialmente al triángulo, de forma simila
 
 ---
 
-## 🧪 Implementación
+## Implementación
 
 ### Lenguaje y bibliotecas
 
